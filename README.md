@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Sergio Sposito!</strong>
 
-> Sou desenvolvedor full stack com mais de 8 anos de experiência, atuando na construção de sistemas, websites diversos e grandes portais de notícias.
+> Sou Engenheiro de software com mais de 8 anos de experiência, atuando na construção de sistemas, website e grandes portais de notícias.
 
 ## 🔭 Veja alguns dos meus projetos
 
